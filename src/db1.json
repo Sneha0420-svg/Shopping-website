@@ -1,0 +1,433 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "clothes",
+      "name": "Floral Summer Dress",
+      "price": 21.99,
+      "price1": 19.99,
+      "description": "A lightweight and breathable floral dress perfect for summer outings.",
+      "image_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/96e660c70d0d583addf5792ba5d8839e.jpg?imageView2/2/w/800/q/70/format/webp"
+    },
+    {
+      "id": "2",
+      "category": "clothes",
+      "name": "Princess Party Gown",
+      "price": 44.99,
+      "price1": 39.99,
+      "description": "A beautiful princess-style gown with lace details, ideal for parties.",
+      "image_url": "https://ae01.alicdn.com/kf/HTB1v.iSj0zJ8KJjSspkq6zF7VXal/Kids-Girls-Flower-Dress-Baby-Girl-Butterfly-Birthday-Party-Dresses-Children-Fancy-Princess-Ball-Gown-Wedding.jpg"
+    },
+    {
+      "id": "3",
+      "category": "clothes",
+      "name": "Casual Cotton Frock",
+      "price": 16.99,
+      "price1": 14.99,
+      "description": "A soft cotton frock with cute prints, comfortable for daily wear.",
+      "image_url": "https://i.pinimg.com/originals/8e/9c/8a/8e9c8a024e72ed23de5a625ef7ffd5c4.jpg"
+    },
+    {
+      "id": "4",
+      "category": "clothes",
+      "name": "Denim Dungaree Dress",
+      "price": 27.99,
+      "price1": 24.99,
+      "description": "A trendy denim dungaree dress that pairs well with t-shirts.",
+      "image_url": "https://media.vertbaudet.com/Pictures/vertbaudet/128530/denim-dungaree-shorts-for-girls.jpg"
+    },
+    {
+      "id": "5",
+      "category": "clothes",
+      "name": "Festive Ethnic Wear",
+      "price": 33.99,
+      "price1": 29.99,
+      "description": "An elegant traditional dress perfect for festive occasions.",
+      "image_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/21604555004027.jpg"
+    },
+    {
+      "id": "6",
+      "category": "clothes",
+      "name": "Fairy Tulle Dress",
+      "price": 37.99,
+      "price1": 34.99,
+      "description": "A magical tulle dress with sparkly details for a fairy-like look.",
+      "image_url": "https://img1.etsystatic.com/175/1/14572646/il_fullxfull.1230022389_ezk0.jpg"
+    },
+    {
+      "id": "7",
+      "category": "clothes",
+      "name": "Striped Casual Dress",
+      "price": 19.99,
+      "price1": 17.99,
+      "description": "A stylish striped dress made of soft fabric, suitable for daily wear.",
+      "image_url": "https://i.pinimg.com/originals/0d/f6/0a/0df60ad9d710d6ab60271d230e51e216.jpg"
+    },
+    {
+      "id": "8",
+      "category": "clothes",
+      "name": "Polka Dot Sleeveless Dress",
+      "price": 24.99,
+      "price1": 22.99,
+      "description": "A charming polka dot dress with a flared design, great for outings.",
+      "image_url": "https://image.yfswebstatic.com/origin/product/oc/clothing/shooting/640b11a146859.jpg?f=webp&s=1300x0"
+    },
+    {
+      "id": "9",
+      "category": "clothes",
+      "name": "Winter Woolen Dress",
+      "price": 30.99,
+      "price1": 27.99,
+      "description": "A cozy woolen dress with warm lining, perfect for winter.",
+      "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/11/PU/GJ/VS/163148535/kids-woolen-dress-500x500.jpeg"
+    },
+    {
+      "id": "10",
+      "category": "clothes",
+      "name": "Rainbow Tutu Dress",
+      "price": 36.99,
+      "price1": 32.99,
+      "description": "A vibrant tutu dress with multiple layers, loved by little girls.",
+      "image_url": "https://i.pinimg.com/originals/a2/38/b2/a238b2487802ccb590f0f2aa19b3e146.jpg"
+    },
+    {
+      "id": "11",
+      "category": "Accessories",
+      "name": "Unicorn Hairband",
+      "price": 5.99,
+      "price1": 4.79,
+      "percentage_difference": 20.01,
+      "description": "A cute unicorn-themed hairband with glittery ears and a soft band.",
+      "image_url": "https://i5.walmartimages.com/asr/4b2025ba-5851-47f3-aaf0-e832022ed2d5_1.d577b00b991d48e5788b8838c8c2f53f.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+    },
+    {
+      "id": "12",
+      "category": "Accessories",
+      "name": "Pearl Hairband",
+      "price": 8.99,
+      "price1": 7.49,
+      "percentage_difference": 16.67,
+      "description": "An elegant pearl-adorned hairband for a classy look.",
+      "image_url": "https://iconicaccessories.co.uk/wp-content/uploads/2023/03/Pearl-Hairband-6.00-qty8-1024x1006.jpg"
+    },
+    {
+      "id": "13",
+      "category": "Accessories",
+      "name": "Rainbow Scrunchies Set",
+      "price": 5.49,
+      "price1": 4.49,
+      "percentage_difference": 18.25,
+      "description": "A set of soft and colorful scrunchies for a trendy hairstyle.",
+      "image_url": "https://i.etsystatic.com/22023920/r/il/303551/2454607258/il_fullxfull.2454607258_f8pg.jpg"
+    },
+    {
+      "id": "14",
+      "category": "Accessories",
+      "name": "Glitter Hair Barrettes",
+      "price": 4.79,
+      "price1": 3.79,
+      "percentage_difference": 20.85,
+      "description": "Shiny glitter hair barrettes that add sparkle to any hairstyle.",
+      "image_url": "https://img.clipart-library.com/2/clip-glitter/clip-glitter-13.jpg"
+    },
+    {
+      "id": "15",
+      "category": "Accessories",
+      "name": "Velvet Hair Bows",
+      "price": 6.99,
+      "price1": 5.59,
+      "percentage_difference": 19.97,
+      "description": "A pack of soft velvet hair bows for a chic and stylish look.",
+      "image_url": "https://i.etsystatic.com/19046324/r/il/828394/2669702010/il_fullxfull.2669702010_o357.jpg"
+    },
+    {
+      "id": "16",
+      "category": "Accessories",
+      "name": "Princess Crown Hair Comb",
+      "price": 9.99,
+      "price1": 8.49,
+      "percentage_difference": 15.02,
+      "description": "A fancy princess crown hair comb for a royal look.",
+      "image_url": "https://img.joomcdn.net/dfb0cc5a4b5869e18c955c6c82206b16787f32fb_original.jpeg"
+    },
+    {
+      "id": "17",
+      "category": "Shoes",
+      "name": "LED Light-Up Sneakers",
+      "price": 24.99,
+      "price1": 22.49,
+      "percentage_difference": 10.01,
+      "description": "Comfortable sneakers with fun LED lights that glow while walking.",
+      "image_url": "https://cf.shopee.ph/file/sg-11134201-22100-x297wgcl5tiv51"
+    },
+    {
+      "id": "18",
+      "category": "Shoes",
+      "name": "Velcro Sports Shoes",
+      "price": 19.99,
+      "price1": 17.49,
+      "percentage_difference": 12.51,
+      "description": "Easy-to-wear Velcro sports shoes for active kids.",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51UjT3ayrRL.jpg"
+    },
+    {
+      "id": "19",
+      "category": "Shoes",
+      "name": "Cute Bunny Slippers",
+      "price": 12.99,
+      "price1": 11.19,
+      "percentage_difference": 13.87,
+      "description": "Soft and cozy bunny-themed slippers for indoor comfort.",
+      "image_url": "https://i5.walmartimages.com/asr/5809d890-c00a-41ce-b33a-e5c406b32b4d.0f596d7b053823632880846827324bca.jpeg"
+    },
+    {
+      "id": "20",
+      "category": "Shoes",
+      "name": "Princess Party Shoes",
+      "price": 29.99,
+      "price1": 26.49,
+      "percentage_difference": 11.68,
+      "description": "Elegant glittery shoes perfect for parties and special occasions.",
+      "image_url": "https://cdn.shopify.com/s/files/1/0300/6568/8711/products/silver-pink-glitter-rhinestone-high-heel-baby-kids-princess-party-shoes-wedding-flower-389_1200x1200.jpg?v=1599637548"
+    },
+    {
+      "id": "21",
+      "category": "Shoes",
+      "name": "Denim Casual Shoes",
+      "price": 17.99,
+      "price1": 15.99,
+      "percentage_difference": 11.12,
+      "description": "Trendy denim shoes with cushioned soles for all-day wear.",
+      "image_url": "https://www.affordable.pk/uploads/products/thumbs/large_15172493110_67.PNG"
+    },
+    {
+      "id": "22",
+      "category": "Shoes",
+      "name": "Superhero Sneakers",
+      "price": 22.99,
+      "price1": 19.99,
+      "percentage_difference": 13.04,
+      "description": "Stylish superhero-themed sneakers for little heroes.",
+      "image_url": "https://i.etsystatic.com/25822578/r/il/e59ef8/3193193855/il_1588xN.3193193855_1lm3.jpg"
+    },
+    {
+      "id": "23",
+      "category": "Shoes",
+      "name": "Rainbow Sandals",
+      "price": 14.99,
+      "price1": 13.49,
+      "percentage_difference": 10.01,
+      "description": "Colorful and comfortable sandals for summer fun.",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81de231D6WL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "24",
+      "category": "Shoes",
+      "name": "Winter Fur Boots",
+      "price": 34.99,
+      "price1": 31.49,
+      "percentage_difference": 10,
+      "description": "Warm and stylish fur-lined boots for cold weather.",
+      "image_url": "https://images.esellerpro.com/2379/I/246/551/PINK%201.jpg"
+    },
+    {
+      "id": "25",
+      "category": "Shoes",
+      "name": "Canvas Slip-On Shoes",
+      "price": 16.99,
+      "price1": 15.49,
+      "percentage_difference": 8.8,
+      "description": "Easy slip-on canvas shoes for everyday wear.",
+      "image_url": "https://tse3.mm.bing.net/th?id=OIP.HM3axCbY4vOmPEAnJQFA2gHaHa&pid=Api&P=0&h=1803"
+    },
+    {
+      "id": "26",
+      "category": "Shoes",
+      "name": "Waterproof Rain Boots",
+      "price": 18.99,
+      "price1": 17.19,
+      "percentage_difference": 9.44,
+      "description": "Durable and waterproof rain boots for splashing fun.",
+      "image_url": "https://www.littleguchi.com/wp-content/uploads/2018/12/5760-xhgulk-e1548127781252-768x699.jpg"
+    },
+    {
+      "id": "27",
+      "category": "Toys",
+      "name": "Building Blocks Set",
+      "price": 19.99,
+      "price1": 18.49,
+      "percentage_difference": 7.51,
+      "description": "A colorful set of interlocking building blocks to enhance creativity.",
+      "image_url": "https://i5.walmartimages.com/asr/8b847524-a5bc-4b46-88d6-d57199e20ed7_1.2653156a0cc3ae2a7e93655f63a48759.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+    },
+    {
+      "id": "28",
+      "category": "Toys",
+      "name": "Plush Teddy Bear",
+      "price": 14.99,
+      "price1": 12.99,
+      "percentage_difference": 13.34,
+      "description": "A soft and cuddly teddy bear, perfect for snuggles and playtime.",
+      "image_url": "https://i5.walmartimages.com/asr/e9c95764-d2dc-44bc-b352-0310042adb8c_1.471262e0e3ffc77d672d5d8444aff440.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+    },
+    {
+      "id": "29",
+      "category": "Toys",
+      "name": "Remote Control Car",
+      "price": 29.99,
+      "price1": 26.49,
+      "percentage_difference": 11.66,
+      "description": "A high-speed remote control car with rechargeable battery support.",
+      "image_url": "https://i5.walmartimages.com/asr/00b8c183-c1bc-407d-9fbb-a0a0f9ab17f1_1.b753ef5ebd1e6a53607cb18bb74e719b.jpeg"
+    },
+    {
+      "id": "30",
+      "category": "Toys",
+      "name": "Dinosaur Action Figures",
+      "price": 24.99,
+      "price1": 22.99,
+      "percentage_difference": 8,
+      "description": "A set of realistic dinosaur action figures for adventurous play.",
+      "image_url": "https://m.media-amazon.com/images/I/61K2BsTxdGL.jpg"
+    },
+    {
+      "id": "31",
+      "category": "Toys",
+      "name": "Musical Xylophone",
+      "price": 12.99,
+      "price1": 10.99,
+      "percentage_difference": 15.4,
+      "description": "A fun and educational xylophone that produces melodious tunes.",
+      "image_url": "http://imgmgr.banggood.com/images/upload/2015/08/SKU269620-5.jpg"
+    },
+    {
+      "id": "32",
+      "category": "Toys",
+      "name": "Puzzle Game Set",
+      "price": 10.99,
+      "price1": 9.79,
+      "percentage_difference": 10.91,
+      "description": "An engaging puzzle game set to boost problem-solving skills.",
+      "image_url": "https://i5.walmartimages.com/asr/bd91d07e-e81d-4857-93c8-0b08da6362e4.c8212daefc25b8a7a6334f4aac7541ba.png?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+    },
+    {
+      "id": "33",
+      "category": "Toys",
+      "name": "Superhero Action Figure",
+      "price": 17.99,
+      "price1": 15.49,
+      "percentage_difference": 13.28,
+      "description": "A detailed superhero action figure with movable joints.",
+      "image_url": "https://www.hasbro.com/common/productimages/en_US/25F7FEC8574945E4B4CDC99E47F52223/8536a2cba3bcd094c36c663d1366233b4fcfdc08.jpg"
+    },
+    {
+      "id": "34",
+      "category": "Toys",
+      "name": "Dollhouse Playset",
+      "price": 34.99,
+      "price1": 30.99,
+      "percentage_difference": 11.43,
+      "description": "A beautiful dollhouse with furniture and accessories included.",
+      "image_url": "https://m.media-amazon.com/images/I/810fkCAXszL._AC_UF894,1000_QL80_.jpg"
+    }
+  ],
+  "newarrivals": [
+    {
+      "name": "Floral Summer Dress",
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "color": "Pink",
+      "material": "Cotton",
+      "price1": 19.99,
+      "brand": "Little Fashion",
+      "description": "A lightweight and breathable floral summer dress for girls.",
+      "image_url": "https://ae01.alicdn.com/kf/HTB1YtFeIXXXXXcVXVXXq6xXFXXXs/New-Summer-Baby-Girls-Floral-Dress-with-cap-European-Style-Designer-Bow-Children-Dresses-Kids-Clothes.jpg",
+      "id": "15a5"
+    },
+    {
+      "name": "Denim Overalls",
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "color": "Blue",
+      "material": "Denim",
+      "price1": 24.99,
+      "brand": "Tiny Trendz",
+      "description": "Stylish denim overalls with adjustable straps and side pockets.",
+      "image_url": "https://i.pinimg.com/originals/39/b7/86/39b7863757c7bd576417e7c7bf887b09.jpg",
+      "id": "d10f"
+    },
+    {
+      "name": "Unicorn Printed T-Shirt",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "White",
+      "material": "Cotton Blend",
+      "price1": 14.99,
+      "brand": "KidsJoy",
+      "description": "Soft cotton t-shirt with a cute unicorn print for magical vibes.",
+      "image_url": "https://i.pinimg.com/originals/69/e8/b5/69e8b5e0a33d17bbabc3a3141ecbe982.jpg",
+      "id": "b4d1"
+    },
+    {
+      "name": "Building Blocks Set",
+      "ageGroup": "3-6 years",
+      "material": "Plastic",
+      "price1": 29.99,
+      "brand": "FunBlocks",
+      "description": "A creative and educational building block set with 100+ pieces.",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/41KLB596EjL.jpg",
+      "id": "88ce"
+    },
+    {
+      "name": "Plush Teddy Bear",
+      "ageGroup": "2+ years",
+      "material": "Soft Plush",
+      "price1": 15.99,
+      "brand": "CuddleSoft",
+      "description": "A super-soft and huggable teddy bear in a cute brown color.",
+      "image_url": "https://i5.walmartimages.com/asr/9cd0ef00-df70-4b46-ad25-5e566b0f979a.67594f1197282756e07aa63d175a2dff.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+      "id": "ecaa"
+    },
+    {
+      "name": "Remote Control Car",
+      "ageGroup": "5-10 years",
+      "material": "Plastic & Metal",
+      "price1": 39.99,
+      "brand": "SpeedyWheels",
+      "description": "A fast and durable remote control car with rechargeable battery.",
+      "image_url": "https://i5.walmartimages.com/asr/66566337-34d4-4cd5-8688-5a9c829a9bfd.89760ed5d8d88a663c649f4610221522.jpeg",
+      "id": "e308"
+    },
+    {
+      "name": "Bow Hairband",
+      "color": "Red",
+      "material": "Fabric",
+      "price1": 5.99,
+      "brand": "PrettyLittleThings",
+      "description": "A stylish and comfortable hairband with a cute bow.",
+      "image_url": "https://cdn.childrensalon.com/media/catalog/product/cache/0/image/1000x1000/9df78eab33525d08d6e5fb8d27136e95/p/e/peach-ribbons-girls-pink-bow-hairband-12931-6efce0a5a87904cadfed69c8d641aee2b3b27ac6.jpg",
+      "id": "6fcb"
+    },
+    {
+      "name": "Kids Sunglasses",
+      "color": "Blue",
+      "material": "Plastic",
+      "price1": 12.99,
+      "brand": "SunnyDays",
+      "description": "Trendy UV-protection sunglasses designed for kids.",
+      "image_url": "https://images-cdn.ubuy.co.in/633ff3a357bf4f0931367f5d-kids-sunglasses-boys-girls-cute.jpg",
+      "id": "9f41"
+    }
+  ],
+  "cart": [],
+  "userdetails": []
+}
