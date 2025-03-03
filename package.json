@@ -17,15 +17,18 @@
     "swiper": "^11.2.2",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "https://Sneha0420-svg.github.io/Ecommerce",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-"deploy": "gh-pages -d build"
-  },
+  "homepage": "https://Sneha0420.github.io/Shopping-website"
+,
+  
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
+
   "eslintConfig": {
     "extends": [
       "react-app",
